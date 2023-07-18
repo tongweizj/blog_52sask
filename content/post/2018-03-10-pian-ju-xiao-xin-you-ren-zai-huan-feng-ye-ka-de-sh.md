@@ -5,6 +5,7 @@ type: post
 date: 2018-03-10T01:32:46+00:00
 url: /article/1494
 featured_image: /wp-content/uploads/2018/03/xZrF0Gy.jpg
+image : "https://i.imgur.com/TwB4MUM.png"
 fifu_image_url:
   - https://i.imgur.com/TwB4MUM.png
 views:
