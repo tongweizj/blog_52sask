@@ -1,13 +1,12 @@
 ---
 title: 安省最低时薪变15元，顺便看看加拿大其他省份工资单
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-04T14:34:21+00:00
-url: /article/1305
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/17060401.jpg
-views:
-  - 272
+
 categories:
   - '政策&amp;福利'
 tags:

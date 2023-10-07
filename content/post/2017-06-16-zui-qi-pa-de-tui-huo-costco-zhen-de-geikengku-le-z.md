@@ -1,13 +1,12 @@
 ---
 title: 最奇葩的退货 Costco真的给”坑”哭了，这等良心商家太少见……
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-16T04:18:52+00:00
-url: /article/1348
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/17061505.png
-views:
-  - 272
+
 categories:
   - 新闻
 

@@ -1,13 +1,12 @@
 ---
 title: 如何建立良好的加拿大信用记录
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-14T04:59:35+00:00
-url: /article/1341
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/17061304.png
-views:
-  - 224
+
 categories:
   - 生活百事
 tags:

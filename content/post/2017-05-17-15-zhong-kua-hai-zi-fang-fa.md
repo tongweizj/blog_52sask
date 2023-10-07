@@ -1,13 +1,12 @@
 ---
 title: 停止夸孩子“你真聪明”，来自斯坦福教授的忠告，请用以下15种语境鼓励孩子
 author: 童远山
-type: post
+draft: fasle
 date: 2017-05-17T15:02:10+00:00
-url: /article/1279
+
 fifu_image_url:
   - http://img.52sask.com/post/201705/1704.jpg
-views:
-  - 91
+
 categories:
   - 教育培训
 tags:

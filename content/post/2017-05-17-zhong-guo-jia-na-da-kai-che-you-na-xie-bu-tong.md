@@ -1,13 +1,12 @@
 ---
 title: 中国、加拿大开车有哪些不同，你知道吗？
 author: 童远山
-type: post
+draft: fasle
 date: 2017-05-17T15:50:45+00:00
-url: /article/1283
+
 fifu_image_url:
   - http://img.52sask.com/post/201705/1701.jpg
-views:
-  - 208
+
 categories:
   - 生活百事
 tags:

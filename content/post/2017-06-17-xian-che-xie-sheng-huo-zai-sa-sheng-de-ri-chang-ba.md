@@ -1,13 +1,12 @@
 ---
 title: 闲扯些生活在萨省的日常吧！
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-17T00:38:10+00:00
-url: /article/1351
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/17061607.jpg
-views:
-  - 165
+
 categories:
   - 移民故事
 

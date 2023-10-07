@@ -1,13 +1,12 @@
 ---
 title: 西洋镜 | 多伦多的401高速，昨天堵了几千辆车！货车相撞起火、1人死亡…
 author: 童远山
-type: post
+draft: fasle
 date: 2017-08-02T20:27:47+00:00
-url: /article/1411
+
 fifu_image_url:
   - http://img.52sask.com/post/201708/2017080206.jpeg
-views:
-  - 128
+
 categories:
   - 新闻
 tags:

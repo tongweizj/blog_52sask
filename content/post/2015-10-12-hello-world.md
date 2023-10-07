@@ -1,11 +1,10 @@
 ---
 title: 关于有益网
 author: 童远山
-type: post
+draft: fasle
 date: 2015-10-12T09:51:29+00:00
-url: /article/1
-views:
-  - 334
+
+
 categories:
   - 黑板报
 

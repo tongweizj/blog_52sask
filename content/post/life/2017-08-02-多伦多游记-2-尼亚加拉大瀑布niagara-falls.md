@@ -1,13 +1,8 @@
 ---
 title: 多伦多游记 2 | 尼亚加拉大瀑布(Niagara Falls)
 author: 童远山
-type: post
+draft: fasle
 date: 2017-08-02T05:20:01+00:00
-url: /article/1406
-fifu_image_url:
-  - http://img.52sask.com/post/201708/2017080101.jpeg
-views:
-  - 221
 categories:
   - 旅行
 

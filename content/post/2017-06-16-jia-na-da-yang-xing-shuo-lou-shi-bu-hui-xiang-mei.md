@@ -1,13 +1,12 @@
 ---
 title: 加拿大央行说：楼市不会像美国一样崩盘！真的吗？
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-16T03:58:16+00:00
-url: /article/1344
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/17061501.jpg
-views:
-  - 150
+
 categories:
   - 买房租房
 

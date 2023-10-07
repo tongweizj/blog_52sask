@@ -1,12 +1,11 @@
 ---
 title: '#撒花# 今天是Canada Day，也就是加拿大的国庆日 | 百科'
 author: 童远山
-type: post
+draft: fasle
 date: 2016-07-01T01:23:02+00:00
-url: /article/882
+
 featured_image: /wp-content/uploads/2016/07/800px-MoWestCanadaDay.jpg
-views:
-  - 187
+
 kratos_love:
   - 1
 categories:

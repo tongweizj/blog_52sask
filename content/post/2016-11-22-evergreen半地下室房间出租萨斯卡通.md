@@ -1,14 +1,12 @@
 ---
 title: 'Evergreen半地下室房间出租#萨斯卡通#'
 author: 童远山
-type: post
+draft: fasle
 date: 2016-11-22T02:06:00+00:00
-url: /article/1106
+
 featured_image: /wp-content/uploads/2016/11/zufang-1.jpeg
-editorial_sidebar_location:
-  - default_sidebar
-views:
-  - 467
+
+
 categories:
   - 家庭旅馆
 

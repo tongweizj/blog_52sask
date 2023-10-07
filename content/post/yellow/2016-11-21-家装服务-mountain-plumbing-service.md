@@ -1,14 +1,12 @@
 ---
 title: '家装服务: MOUNTAIN PLUMBING SERVICE'
 author: 童远山
-type: post
+draft: fasle
 date: 2016-11-21T00:19:12+00:00
-url: /article/1094
+
 featured_image: /wp-content/uploads/2016/11/MOUNTAIN-PLUMBING-SERVICE-378_252.png
-editorial_sidebar_location:
-  - default_sidebar
-views:
-  - 84
+
+
 categories:
   - 生活服务
 

@@ -1,13 +1,12 @@
 ---
 title: 加拿大12个难以置信的事实
 author: 童远山
-type: post
+draft: fasle
 date: 2017-05-19T17:45:10+00:00
-url: /article/1292
+
 fifu_image_url:
   - http://img.52sask.com/post/201705/1901.jpg
-views:
-  - 118
+
 categories:
   - 新闻
 

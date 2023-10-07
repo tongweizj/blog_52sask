@@ -1,13 +1,12 @@
 ---
 title: '#2017#新移民买房贷款全流程'
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-02T15:40:32+00:00
-url: /article/1302
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/17060201.jpg
-views:
-  - 198
+
 categories:
   - 买房租房
 

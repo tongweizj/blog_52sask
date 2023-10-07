@@ -1,15 +1,14 @@
 ---
 title: 短登加拿大怎么收枫叶卡？
 author: 童远山
-type: post
+draft: fasle
 date: 2017-05-20T23:25:52+00:00
-url: /article/1297
+
 fifu_image_url:
   - http://img.52sask.com/post/201705/2001.bmp
 fifu_image_alt:
   - http://img.52sask.com/post/201705/2001.bmp
-views:
-  - 361
+
 categories:
   - 新移民登陆
 

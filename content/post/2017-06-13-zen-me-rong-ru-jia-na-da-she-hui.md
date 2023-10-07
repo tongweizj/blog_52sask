@@ -1,13 +1,12 @@
 ---
 title: 登陆3年内，怎么融入加拿大社会
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-13T03:47:49+00:00
-url: /article/1338
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/17061205.jpg
-views:
-  - 306
+
 suxing_ding:
   - 1
 bigger_cover:

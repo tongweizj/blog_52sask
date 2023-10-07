@@ -1,14 +1,12 @@
 ---
 title: expressaddress 网站
 author: 童远山
-type: post
+draft: fasle
 date: 2015-10-27T01:14:51+00:00
-url: /article/480
+
 featured_image: /wp-content/uploads/2015/10/expressaddresslogo.gif
-views:
-  - 302
-editorial_sidebar_location:
-  - default_sidebar
+
+
 categories:
   - 新移民登陆
   - 组织机构

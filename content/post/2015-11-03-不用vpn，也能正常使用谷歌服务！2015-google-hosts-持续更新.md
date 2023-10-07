@@ -1,13 +1,11 @@
 ---
 title: 不用vpn，也能正常使用谷歌服务！2015 Google hosts 持续更新
 author: 童远山
-type: post
+draft: fasle
 date: 2015-11-03T01:50:22+00:00
-url: /article/494
-views:
-  - 676
-editorial_sidebar_location:
-  - default_sidebar
+
+
+
 categories:
   - 新闻
 tags:

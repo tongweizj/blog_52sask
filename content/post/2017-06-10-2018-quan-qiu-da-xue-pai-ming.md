@@ -1,13 +1,12 @@
 ---
 title: 2018QS全球大学排行榜出炉,我们一起看看孩子以后去读哪家大学吧！
 author: 童远山
-type: post
+draft: fasle
 date: 2017-06-10T15:33:37+00:00
-url: /article/1326
+
 fifu_image_url:
   - http://img.52sask.com/post/201706/170610QS2.png
-views:
-  - 149
+
 categories:
   - 学习工作
 

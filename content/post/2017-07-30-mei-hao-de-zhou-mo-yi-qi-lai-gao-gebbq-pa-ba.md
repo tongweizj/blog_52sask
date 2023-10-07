@@ -1,13 +1,12 @@
 ---
 title: 美好的周末，一起来搞个BBQ趴吧！
 author: 童远山
-type: post
+draft: fasle
 date: 2017-07-30T08:24:19+00:00
-url: /article/1358
+
 fifu_image_url:
   - http://img.52sask.com/post/201707/2017073010.jpg
-views:
-  - 186
+
 categories:
   - 生活百事
 tags:

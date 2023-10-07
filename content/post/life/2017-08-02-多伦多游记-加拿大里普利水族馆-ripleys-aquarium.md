@@ -1,13 +1,8 @@
 ---
 title: 多伦多游记 | 加拿大里普利水族馆 (Ripley’s Aquarium)
 author: 童远山
-type: post
+draft: fasle
 date: 2017-08-02T04:17:07+00:00
-url: /article/1400
-fifu_image_url:
-  - http://img.52sask.com/post/201707/2017073102.jpg
-views:
-  - 185
 categories:
   - 旅行
 

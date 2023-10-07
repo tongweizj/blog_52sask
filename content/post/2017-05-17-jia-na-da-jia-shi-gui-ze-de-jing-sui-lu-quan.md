@@ -1,13 +1,12 @@
 ---
 title: 加拿大驾驶规则的精髓：路权
 author: 童远山
-type: post
+draft: fasle
 date: 2017-05-16T16:31:58+00:00
-url: /article/1281
+
 fifu_image_url:
   - http://img.52sask.com/post/201705/1702.jpg
-views:
-  - 391
+
 categories:
   - 推荐信息
 tags:
