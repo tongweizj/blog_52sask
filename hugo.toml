@@ -13,7 +13,7 @@ paginate = 10
 #disqusShortname = "XXX"
 
 # Google Analytics
-googleAnalytics = "G-HNHQS6PMPT"
+#googleAnalytics = "UA-123-45"
 
 [markup.highlight]
 codeFences = true
