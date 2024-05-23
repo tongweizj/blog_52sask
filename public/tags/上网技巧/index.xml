@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>上网技巧 on 52sask</title>
+    <link>http://localhost:1313/tags/%E4%B8%8A%E7%BD%91%E6%8A%80%E5%B7%A7/</link>
+    <description>Recent content in 上网技巧 on 52sask</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Nov 2015 01:50:22 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E4%B8%8A%E7%BD%91%E6%8A%80%E5%B7%A7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不用vpn，也能正常使用谷歌服务！2015 Google hosts 持续更新</title>
+      <link>http://localhost:1313/post/2015-11-03-%E4%B8%8D%E7%94%A8vpn%E4%B9%9F%E8%83%BD%E6%AD%A3%E5%B8%B8%E4%BD%BF%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A12015-google-hosts-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Tue, 03 Nov 2015 01:50:22 +0000</pubDate>
+      <guid>http://localhost:1313/post/2015-11-03-%E4%B8%8D%E7%94%A8vpn%E4%B9%9F%E8%83%BD%E6%AD%A3%E5%B8%B8%E4%BD%BF%E7%94%A8%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A12015-google-hosts-%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</guid>
+      <description>一共只要4步 本方法对以下网站有效: 1. 找到hosts这个文件 Windows 系统 是位于 C:\WINDOWS\system32\drivers\etc目录里。</description>
+    </item>
+  </channel>
+</rss>

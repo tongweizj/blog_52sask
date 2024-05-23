@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>演讲 on 52sask</title>
+    <link>http://localhost:1313/tags/%E6%BC%94%E8%AE%B2/</link>
+    <description>Recent content in 演讲 on 52sask</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2017 07:32:53 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%BC%94%E8%AE%B2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一只黑天鹅：时间战场</title>
+      <link>http://localhost:1313/post/2017-01-12-%E7%AC%AC%E4%B8%80%E5%8F%AA%E9%BB%91%E5%A4%A9%E9%B9%85%E6%97%B6%E9%97%B4%E6%88%98%E5%9C%BA/</link>
+      <pubDate>Thu, 12 Jan 2017 07:32:53 +0000</pubDate>
+      <guid>http://localhost:1313/post/2017-01-12-%E7%AC%AC%E4%B8%80%E5%8F%AA%E9%BB%91%E5%A4%A9%E9%B9%85%E6%97%B6%E9%97%B4%E6%88%98%E5%9C%BA/</guid>
+      <description>虎嗅注：2016年12月31日晚，罗辑思维创始人罗振宇在深圳举办的《时间的朋友》演讲中，围绕2016年起飞的五只黑天鹅——时间战场、服务升级</description>
+    </item>
+  </channel>
+</rss>

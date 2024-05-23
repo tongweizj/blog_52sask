@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on 52sask</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <description>Recent content in Markdown on 52sask</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Jul 2023 16:14:13 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>拉姆齐理财7小步</title>
+      <link>http://localhost:1313/post/finance/%E6%8B%89%E5%A7%86%E9%BD%90%E7%90%86%E8%B4%A27%E5%B0%8F%E6%AD%A5/</link>
+      <pubDate>Tue, 18 Jul 2023 16:14:13 -0400</pubDate>
+      <guid>http://localhost:1313/post/finance/%E6%8B%89%E5%A7%86%E9%BD%90%E7%90%86%E8%B4%A27%E5%B0%8F%E6%AD%A5/</guid>
+      <description>拉姆齐理财7小步 介绍个“拉姆齐理财7小步”： 1，将$1,000 存入应急基金 2，使用债务雪球还清所有债务(房产除外) 3，应急基金中存足能应付3</description>
+    </item>
+  </channel>
+</rss>
