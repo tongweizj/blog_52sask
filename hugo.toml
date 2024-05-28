@@ -118,8 +118,8 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "就学"
   href =  "/categories/就学/"
   [[params.addtional_menus]]
-  title =  "投资"
-  href =  "/categories/投资/"
+  title =  "理财"
+  href =  "/categories/理财/"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
