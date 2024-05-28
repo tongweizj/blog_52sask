@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>旅行</title>
+      <link>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>诈骗</title>
       <link>http://localhost:1313/tags/%E8%AF%88%E9%AA%97/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -23,10 +30,31 @@
       <description></description>
     </item>
     <item>
+      <title>福利</title>
+      <link>http://localhost:1313/tags/%E7%A6%8F%E5%88%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%A6%8F%E5%88%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>工作</title>
+      <link>http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>发布</title>
       <link>http://localhost:1313/tags/%E5%8F%91%E5%B8%83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E5%8F%91%E5%B8%83/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>推荐信息</title>
+      <link>http://localhost:1313/tags/%E6%8E%A8%E8%8D%90%E4%BF%A1%E6%81%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%8E%A8%E8%8D%90%E4%BF%A1%E6%81%AF/</guid>
       <description></description>
     </item>
     <item>
@@ -142,6 +170,20 @@
       <description></description>
     </item>
     <item>
+      <title>新闻</title>
+      <link>http://localhost:1313/tags/%E6%96%B0%E9%97%BB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%96%B0%E9%97%BB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>生活服务</title>
+      <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>萨屯美食</title>
       <link>http://localhost:1313/tags/%E8%90%A8%E5%B1%AF%E7%BE%8E%E9%A3%9F/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -209,13 +251,6 @@
       <link>http://localhost:1313/tags/%E8%90%A8%E6%96%AF%E5%8D%A1%E9%80%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E8%90%A8%E6%96%AF%E5%8D%A1%E9%80%9A/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>旅行</title>
-      <link>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%97%85%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
@@ -300,13 +335,6 @@
       <link>http://localhost:1313/tags/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>工作</title>
-      <link>http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C/</guid>
       <description></description>
     </item>
     <item>
@@ -408,13 +436,6 @@
       <description></description>
     </item>
     <item>
-      <title>福利</title>
-      <link>http://localhost:1313/tags/%E7%A6%8F%E5%88%A9/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E7%A6%8F%E5%88%A9/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>汽车</title>
       <link>http://localhost:1313/tags/%E6%B1%BD%E8%BD%A6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -457,13 +478,6 @@
       <description></description>
     </item>
     <item>
-      <title>新闻</title>
-      <link>http://localhost:1313/tags/%E6%96%B0%E9%97%BB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E6%96%B0%E9%97%BB/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>萨省新闻</title>
       <link>http://localhost:1313/tags/%E8%90%A8%E7%9C%81%E6%96%B0%E9%97%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -478,10 +492,10 @@
       <description></description>
     </item>
     <item>
-      <title>萨省物价</title>
-      <link>http://localhost:1313/tags/%E8%90%A8%E7%9C%81%E7%89%A9%E4%BB%B7/</link>
+      <title>物价</title>
+      <link>http://localhost:1313/tags/%E7%89%A9%E4%BB%B7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%E8%90%A8%E7%9C%81%E7%89%A9%E4%BB%B7/</guid>
+      <guid>http://localhost:1313/tags/%E7%89%A9%E4%BB%B7/</guid>
       <description></description>
     </item>
     <item>
@@ -583,6 +597,20 @@
       <description></description>
     </item>
     <item>
+      <title>教育培训</title>
+      <link>http://localhost:1313/tags/%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%95%99%E8%82%B2%E5%9F%B9%E8%AE%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>育儿教育</title>
+      <link>http://localhost:1313/tags/%E8%82%B2%E5%84%BF%E6%95%99%E8%82%B2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E8%82%B2%E5%84%BF%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>萨屯</title>
       <link>http://localhost:1313/tags/%E8%90%A8%E5%B1%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -608,6 +636,13 @@
       <link>http://localhost:1313/tags/%E7%99%BB%E9%99%86%E7%9F%A5%E8%AF%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%E7%99%BB%E9%99%86%E7%9F%A5%E8%AF%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>新移民登陆</title>
+      <link>http://localhost:1313/tags/%E6%96%B0%E7%A7%BB%E6%B0%91%E7%99%BB%E9%99%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%96%B0%E7%A7%BB%E6%B0%91%E7%99%BB%E9%99%86/</guid>
       <description></description>
     </item>
   </channel>

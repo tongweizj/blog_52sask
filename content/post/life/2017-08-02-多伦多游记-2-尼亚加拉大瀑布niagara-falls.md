@@ -4,6 +4,8 @@ author: 童远山
 draft: fasle
 date: 2017-08-02T05:20:01+00:00
 categories:
+ - '生活'
+tags:
   - 旅行
 
 ---
