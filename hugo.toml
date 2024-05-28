@@ -120,9 +120,6 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "理财"
   href =  "/categories/理财/"
-  [[params.addtional_menus]]
-  title =  "ABOUT"
-  href =  "/about/"
 
 
 [outputFormats.Algolia]
